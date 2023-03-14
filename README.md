@@ -7,3 +7,5 @@ RUNNING BACKEND
 1. Go to DjangoAPI directory.
 2. Run command "pip install -r requirements.txt"
 3. Run command "python manage.py runserver"
+
+You can try API queries with PostMan for example.
